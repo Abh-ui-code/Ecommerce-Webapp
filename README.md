@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Click on this https://ecommerce-website-limit.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
